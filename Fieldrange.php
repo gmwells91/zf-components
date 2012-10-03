@@ -15,7 +15,7 @@
        public function getMin()
        {
        }
-       public functionm getMax()
+       public function getMax()
        {
        }
    }
