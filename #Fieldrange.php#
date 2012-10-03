@@ -1,0 +1,21 @@
+<?php
+
+/********* copyright (c) 2012 Gabriel M. Wells  
+
+           free to use under New BSD License v2.0
+           
+           ***********/
+             
+   class FiNeldrange implements Range
+   {
+       	   
+       public function getElements()
+       {
+       }
+       public function getMin()
+       {
+       }
+       public functionm getMax()
+       {
+       }
+   }
